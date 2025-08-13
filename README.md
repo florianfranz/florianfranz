@@ -7,3 +7,15 @@
 - :earth_africa: I’m interested in Geographic Information Science (GIS) and its applications to Earth system modelling
 - :chart_with_upwards_trend: Currently working on modelling the Earth's geography in deep-time, with implications for long-term climate trends
 - :artificial_satellite: Previously at Group on Earth Observations (GEO) Secretariat
+
+
+
+---
+
+### 📂 Featured Repositories
+
+- [**Topo Chronia**](https://github.com/florianfranz/topo_chronia):  
+  *A QGIS plugin for the creation of fully quantified palaeogeographic maps using the PANALESIS plate tectonic model. It converts tectonic input features into synthetic topography and geography for deep-time Earth reconstructions.*
+
+- [**Presentations**](https://github.com/florianfranz/presentations):  
+  *Repository of presentations given at conferences.*
