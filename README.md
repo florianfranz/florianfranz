@@ -17,5 +17,8 @@
 - [**Topo Chronia**](https://github.com/florianfranz/topo_chronia):  
   *A QGIS plugin for the creation of fully quantified palaeogeographic maps using the PANALESIS plate tectonic model. It converts tectonic input features into synthetic topography and geography for deep-time Earth reconstructions.*
 
+- [**Palaeo-Data-Cube**](https://github.com/florianfranz/palaeo-data-cube):  
+  *A repository describing the Palaeo Data Cube (PDC), a solution for sharing maps of the Earth in deep-time, using state-of-the-art tools usually applied in the domain of Earth observations.*
+
 - [**Presentations**](https://github.com/florianfranz/presentations):  
   *Repository of presentations given at conferences.*
