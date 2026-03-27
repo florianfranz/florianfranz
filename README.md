@@ -20,5 +20,8 @@
 - [**Palaeo-Data-Cube**](https://github.com/florianfranz/palaeo-data-cube):  
   *A repository describing the Palaeo Data Cube (PDC), a solution for sharing maps of the Earth in deep-time, using state-of-the-art tools usually applied in the domain of Earth observations.*
 
+ - [**SPACE-GEOLOGY**](https://github.com/unige-cgeom/SPACE-GEOLOGY):  
+ *An open access course on methods for multiscale Earth science modelling*
+
 - [**Presentations**](https://github.com/florianfranz/presentations):  
   *Repository of presentations given at conferences.*
