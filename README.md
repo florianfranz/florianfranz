@@ -20,6 +20,9 @@
 - [**Palaeo-Data-Cube**](https://github.com/florianfranz/palaeo-data-cube):  
   *A repository describing the Palaeo Data Cube (PDC), a solution for sharing maps of the Earth in deep-time, using state-of-the-art tools usually applied in the domain of Earth observations.*
 
+- [**LivingEarth for Deep-Time**](https://github.com/florianfranz/LivingEarth_DeepTime):  
+ *An adaptation of the LivingEarth framework for deep-time land cover classification*
+
  - [**SPACE-GEOLOGY**](https://github.com/unige-cgeom/SPACE-GEOLOGY):  
  *An open access course on methods for multiscale Earth science modelling*
 
